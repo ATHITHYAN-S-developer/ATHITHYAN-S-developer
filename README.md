@@ -59,17 +59,6 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ATHITHYAN-S-developer&theme=tokyonight&hide_border=true" />
 </p>
 
----
-
-## 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/ATHITHYAN-S-developer/ATHITHYAN-S-developer/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake Animation" />
-</p>
-
-> Needs a one-time GitHub Action setup — see step 4 below, otherwise this image won't render.
-
----
 
 ## 🌐 Connect
 
