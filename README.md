@@ -23,13 +23,13 @@
 ## ⚡ Engineering Focus
 
 ```text
-Frontend        → React.js • JavaScript • TypeScript • HTML • CSS • Tailwind
-Backend         → Python • Flask • Django • REST APIs
-Database        → Firebase • Firestore • MongoDB • MySQL
-AI / ML         → Python • TensorFlow • Scikit-learn • AI API integrations
-Dev Tools       → Git • GitHub • VS Code • Postman • Docker
-IoT / Hardware  → ESP32 • Sensors • Embedded Systems
-Design          → Figma • Blender
+               Frontend        → React.js • JavaScript • TypeScript • HTML • CSS • Tailwind
+               Backend         → Python • Flask • Django • REST APIs
+               Database        → Firebase • Firestore • MongoDB • MySQL
+               AI / ML         → Python • TensorFlow • Scikit-learn • AI API integrations
+               Dev Tools       → Git • GitHub • VS Code • Postman • Docker
+               IoT / Hardware  → ESP32 • Sensors • Embedded Systems
+               Design          → Figma • Blender
 ```
 
 ---
@@ -40,58 +40,11 @@ Design          → Figma • Blender
   <img src="https://skillicons.dev/icons?i=react,ts,js,python,django,flask,firebase,mongodb,mysql,html,css,tailwind,git,github,vscode,figma,blender,tensorflow,docker&perline=10" />
 </p>
 
----
 
-## 🚀 Current Projects
-
-### 🌐 TechVerse
-Institutional educational platform built for VCET college students and faculty.
-
-**Architecture**
-```text
-React / Vite → Firebase Auth → Firestore → Backend APIs
-                                              ↓
-        Courses • E-Resources • Tests • Coding • Certificates
-```
-
-**Features**
-- Student / Teacher / Admin role separation with OTP-based login
-- Course management & video-based learning
-- MCQ assessments and coding challenges
-- Certificates & verification
-- Points and streak system
-- Department-wise e-resources
-- Admin dashboards & academic announcements
-
-### 🤖 AI & Automation
-- AI API integrations in production web apps
-- Python automation & scripting
-- ML experimentation (scikit-learn, TensorFlow)
-- Local AI / LLM workflows and agents
-
-### 🔌 Embedded & IoT
-```text
-ESP32
- ├── Ultrasonic + joystick-controlled radar
- ├── LDR-based alert systems
- ├── Wireless communication
- └── Embedded AI experiments
-```
 
 ---
 
-## 💻 Featured Projects
 
-| Project | Description | Tech |
-|---|---|---|
-| **[TechVerse](https://github.com/ATHITHYAN-S-developer)** | Educational platform for VCET college | React • Firebase • Python |
-| **[Synergia Event Portal](https://github.com/ATHITHYAN-S-developer)** | Event management portal with AI features | React • TypeScript • Firebase • Gemini AI |
-| **[IPL Auction Portal](https://github.com/ATHITHYAN-S-developer)** | Live auction system with role-based auth | React • Vite • Firebase |
-| **[sales-prediction-using-machine-learning](https://github.com/ATHITHYAN-S-developer/sales-prediction-using-machine-learning)** | ML model for sales forecasting | Jupyter Notebook • Python |
-| **[AI Transaction Pipeline](https://github.com/ATHITHYAN-S-developer)** | Dockerized AI-powered transaction processor | Python • Docker |
-| **[portfolio](https://github.com/ATHITHYAN-S-developer/portfolio)** | Personal developer portfolio | CSS • HTML |
-
-*(swap in the exact repo URLs for the ones still pointing at your profile)*
 
 ---
 
