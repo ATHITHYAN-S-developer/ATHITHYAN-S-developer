@@ -11,6 +11,11 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=ATHITHYAN-S-developer&label=Profile%20Views&color=58A6FF&style=flat-square" alt="Profile Views" />
   <img src="https://img.shields.io/github/followers/ATHITHYAN-S-developer?label=Followers&style=flat-square&color=58A6FF" alt="Followers" />
+  <img src="https://img.shields.io/badge/PRO-Enabled-black?style=flat-square&color=8957e5" alt="Pro" />
+</p>
+
+<p align="center">
+  I'm a CS student who builds full end-to-end products — web apps, AI integrations, and the occasional ESP32 board on my desk. Currently building <b>TechVerse</b>, an academic platform for my college, and organizing AI-focused activities with <b>Mindcraft AI Club</b>.
 </p>
 
 ---
@@ -21,8 +26,8 @@
 Frontend        → React.js • JavaScript • TypeScript • HTML • CSS • Tailwind
 Backend         → Python • Flask • Django • REST APIs
 Database        → Firebase • Firestore • MongoDB • MySQL
-AI / ML         → Python • TensorFlow • Scikit-learn • AI Integrations
-Development     → Git • GitHub • VS Code • Postman
+AI / ML         → Python • TensorFlow • Scikit-learn • AI API integrations
+Dev Tools       → Git • GitHub • VS Code • Postman • Docker
 IoT / Hardware  → ESP32 • Sensors • Embedded Systems
 Design          → Figma • Blender
 ```
@@ -32,7 +37,7 @@ Design          → Figma • Blender
 ## 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,ts,js,python,django,flask,firebase,mongodb,mysql,html,css,tailwind,git,github,vscode,figma,blender,tensorflow&perline=9" />
+  <img src="https://skillicons.dev/icons?i=react,ts,js,python,django,flask,firebase,mongodb,mysql,html,css,tailwind,git,github,vscode,figma,blender,tensorflow,docker&perline=10" />
 </p>
 
 ---
@@ -40,61 +45,36 @@ Design          → Figma • Blender
 ## 🚀 Current Projects
 
 ### 🌐 TechVerse
-
-Institutional educational platform designed for college students and faculty.
+Institutional educational platform built for VCET college students and faculty.
 
 **Architecture**
-
 ```text
-React / Vite
-     ↓
-Firebase Authentication
-     ↓
-Firestore
-     ↓
-Backend APIs
-     ↓
-Courses • E-Resources • Tests • Coding • Certificates
+React / Vite → Firebase Auth → Firestore → Backend APIs
+                                              ↓
+        Courses • E-Resources • Tests • Coding • Certificates
 ```
 
 **Features**
-
-* Student / Teacher / Admin role separation
-* Course management
-* Video-based learning
-* MCQ assessments
-* Coding challenges
-* Certificates & verification
-* Points and streak system
-* E-resource management
-* Academic announcements
-* Admin dashboards
-
----
+- Student / Teacher / Admin role separation with OTP-based login
+- Course management & video-based learning
+- MCQ assessments and coding challenges
+- Certificates & verification
+- Points and streak system
+- Department-wise e-resources
+- Admin dashboards & academic announcements
 
 ### 🤖 AI & Automation
-
-Working with:
-
-* AI API integrations
-* AI-powered web applications
-* Python automation
-* Machine learning experimentation
-* Local AI / LLM workflows
-* AI agents
-
----
+- AI API integrations in production web apps
+- Python automation & scripting
+- ML experimentation (scikit-learn, TensorFlow)
+- Local AI / LLM workflows and agents
 
 ### 🔌 Embedded & IoT
-
-Building experimental systems using:
-
 ```text
 ESP32
- ├── Sensors
+ ├── Ultrasonic + joystick-controlled radar
+ ├── LDR-based alert systems
  ├── Wireless communication
- ├── IoT monitoring
- ├── Radar / proximity detection
  └── Embedded AI experiments
 ```
 
@@ -102,18 +82,20 @@ ESP32
 
 ## 💻 Featured Projects
 
-| Project                     | Technologies                   |
-| --------------------------- | ------------------------------ |
-| **TechVerse**               | React • Firebase • Python • AI |
-| **MindCraftAI Platform**    | React • Firebase • Vite        |
-| **Synergia Event Portal**   | React • TypeScript • Firebase  |
-| **IPL Auction Portal**      | React • Vite • Firebase        |
-| **AI Transaction Pipeline** | Python • Docker • AI           |
-| **ESP32 IoT Projects**      | ESP32 • Sensors • Embedded C   |
+| Project | Description | Tech |
+|---|---|---|
+| **[TechVerse](https://github.com/ATHITHYAN-S-developer)** | Educational platform for VCET college | React • Firebase • Python |
+| **[Synergia Event Portal](https://github.com/ATHITHYAN-S-developer)** | Event management portal with AI features | React • TypeScript • Firebase • Gemini AI |
+| **[IPL Auction Portal](https://github.com/ATHITHYAN-S-developer)** | Live auction system with role-based auth | React • Vite • Firebase |
+| **[sales-prediction-using-machine-learning](https://github.com/ATHITHYAN-S-developer/sales-prediction-using-machine-learning)** | ML model for sales forecasting | Jupyter Notebook • Python |
+| **[AI Transaction Pipeline](https://github.com/ATHITHYAN-S-developer)** | Dockerized AI-powered transaction processor | Python • Docker |
+| **[portfolio](https://github.com/ATHITHYAN-S-developer/portfolio)** | Personal developer portfolio | CSS • HTML |
+
+*(swap in the exact repo URLs for the ones still pointing at your profile)*
 
 ---
 
-## 📊 GitHub
+## 📊 GitHub Stats
 
 <p align="center">
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=ATHITHYAN-S-developer&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
@@ -126,29 +108,13 @@ ESP32
 
 ---
 
-## 🐍 Contribution Activity
+## 🐍 Contribution Snake
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/ATHITHYAN-S-developer/ATHITHYAN-S-developer/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake Animation" />
 </p>
 
----
-
-## 🔭 What I'm Building
-
-```text
-Web Applications
-      ↓
-AI Integrations
-      ↓
-Automation
-      ↓
-IoT / Embedded Systems
-      ↓
-Real-world Engineering Projects
-```
-
-I focus on building practical systems that combine **software, AI, cloud, and hardware**.
+> Needs a one-time GitHub Action setup — see step 4 below, otherwise this image won't render.
 
 ---
 
