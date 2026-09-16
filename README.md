@@ -21,11 +21,12 @@
 </a>
 
 </div>
-<div align="center"> <img src="https://raw.githubusercontent.com/ATHITHYAN-S-developer/ATHITHYAN-S-developer/output/github-contribution-grid-snake.svg" /> </div>
+📊 GITHUB ACTIVITY
+<div align="center"> <img height="170" src="https://github-readme-stats.vercel.app/api?username=ATHITHYAN-S-developer&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&rank_icon=github" /> <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ATHITHYAN-S-developer&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" /> </div> <br/> <div align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=ATHITHYAN-S-developer&theme=tokyonight&hide_border=true" /> </div>
 ---
 <div align="center">
 Code • Create • Experiment • Repeat
-<div align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=ATHITHYAN-S-developer&theme=tokyo-night&hide_border=true&area=true" /> </div>
+
   
 ## `> whoami`
 
