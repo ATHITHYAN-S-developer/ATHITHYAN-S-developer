@@ -41,3 +41,5 @@ currently_building:
   - IoT prototypes
 
 philosophy: "Learn → Build → Break → Improve → Ship"
+
+<div align="center"> <a href="mailto:adithyan659@gmail.com"> <img src="https://img.shields.io/badge/GMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/> </a> <a href="https://linkedin.com/in/athithyan-engineer"> <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/> </a> <a href="https://portfolio-omega-roan-qrj3p5ysmi.vercel.app"> <img src="https://img.shields.io/badge/PORTFOLIO-111827?style=for-the-badge&logo=vercel&logoColor=white"/> </a> </div>
