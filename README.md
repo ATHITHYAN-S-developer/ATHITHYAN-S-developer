@@ -21,12 +21,12 @@
 </a>
 
 </div>
-
+<div align="center"> <img src="https://raw.githubusercontent.com/ATHITHYAN-S-developer/ATHITHYAN-S-developer/output/github-contribution-grid-snake.svg" /> </div>
 ---
 <div align="center">
 Code • Create • Experiment • Repeat
-
-  <div align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=ATHITHYAN-S-developer&theme=tokyo-night&hide_border=true&area=true" /> </div>
+<div align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=ATHITHYAN-S-developer&theme=tokyo-night&hide_border=true&area=true" /> </div>
+  
 ## `> whoami`
 
 ```yaml
