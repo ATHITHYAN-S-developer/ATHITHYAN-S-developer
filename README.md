@@ -38,7 +38,7 @@ Building full-stack products, AI integrations, and the occasional ESP32 board on
 
 ## 📫 How to reach me: ...
 
-- **Email:** adithyan659@gmail.com
+- **Email:** athithyan659@gmail.com
 - **LinkedIn:** [linkedin.com/in/athithyan-engineer](https://linkedin.com/in/athithyan-engineer)
 - **Portfolio:** [portfolio-omega-roan-qrj3p5ysmi.vercel.app](https://portfolio-omega-roan-qrj3p5ysmi.vercel.app)
 
