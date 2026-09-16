@@ -78,6 +78,14 @@ philosophy: "Learn → Build → Break → Improve → Ship"
 
 ---
 
+## 🌱 Currently Learning
+
+- Deepening expertise in **Large Language Models** and applied **AI/ML**
+- Exploring **cloud deployment** and scalable system architecture
+- Experimenting with advanced **IoT** integrations and edge computing
+
+---
+
 ## 📫 Connect With Me
 
 <div align="center">
