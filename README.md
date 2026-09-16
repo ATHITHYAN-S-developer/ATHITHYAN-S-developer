@@ -23,7 +23,9 @@
 </div>
 
 ---
-
+<div align="center">
+Code • Create • Experiment • Repeat
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:2563EB,50:1E3A8A,100:0F172A&section=footer"/> </div>    
 ## `> whoami`
 
 ```yaml
