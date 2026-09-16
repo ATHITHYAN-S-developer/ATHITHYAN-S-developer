@@ -25,7 +25,8 @@
 ---
 <div align="center">
 Code • Create • Experiment • Repeat
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:2563EB,50:1E3A8A,100:0F172A&section=footer"/> </div>    
+
+  <div align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=ATHITHYAN-S-developer&theme=tokyo-night&hide_border=true&area=true" /> </div>
 ## `> whoami`
 
 ```yaml
