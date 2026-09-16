@@ -106,6 +106,19 @@ philosophy: "Learn → Build → Break → Improve → Ship"
 
 ---
 
+## 🐍 Contribution Activity
+
+<div align="center">
+
+<img
+  src="https://raw.githubusercontent.com/info-lamin/info-lamin/output/snake.svg"
+  alt="GitHub Contribution Snake"
+/>
+
+</div>
+
+---
+
 <div align="center">
 
 **Code • Create • Experiment • Repeat**
